@@ -11,4 +11,6 @@ Some practical notes:
 
 2) It is unlikely you will be able to run all the code in the notebook as we go through the tutorial. Don't bother keeping up with it all! Rather, remember what's in the code, and see how it can be used later - that being said, all the code does work!
   
-3) There are parts of the code that require you to download a model - you can run through the notebook in advance and download these, as well as the package installations. 
+3) There are parts of the code that require you to download a model - you can run through the notebook in advance and download these, as well as the package installations.
+
+4) The data folder has some data that is required during the tutorial - it would be a good idea to just download this repository to make it easier for you down the line.
